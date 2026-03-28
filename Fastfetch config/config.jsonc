@@ -116,8 +116,9 @@
             "key": "{#35}├╴ Font     ",
         },
         {
-            "type":"wmtheme",
+            "type":"Theme",
             "key":"{#35}├╴❁ Theme      ",
+            "format":"{theme1}"
         },
         {
             "type": "cursor",
