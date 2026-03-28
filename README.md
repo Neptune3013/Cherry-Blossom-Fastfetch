@@ -4,7 +4,7 @@ Custom Kitty Terminal and Fastfetch config files for a Cherry Blossom Theme
 ## Download
 Run
 ```
-git clone https://github.com/Neptune3013/Cherry-Blossom-Fastfetch.git
+git clone https://github.com/Neptune3013/Cherry-Blossom-Kitty-Fastfetch.git
 ```
 ## Installation
 ### Kitty Terminal theme config
